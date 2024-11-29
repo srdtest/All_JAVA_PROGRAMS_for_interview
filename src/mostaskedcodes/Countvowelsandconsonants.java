@@ -3,7 +3,7 @@ package mostaskedcodes;
 public class Countvowelsandconsonants{
 
 	public static void main(String[] args) {
-		String name= "sanjaykumar";
+		String name= "sanjaykumarsanjay";
 		
 		int len= name.length();
 		int ovels_count=0;
